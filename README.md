@@ -1,6 +1,6 @@
 # Covidvaxapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2. For backend, go to covidvax repository and run the backend server using maven. It is written in Java using Spring Framework. Server is tomcat. Frontend is written in Angular.js and the server is Node.js
 
 ## Development server
 
